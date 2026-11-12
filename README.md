@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>AutoDocLM</h1>
+  <h1>CodeAtlas</h1>
 
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=000000&style=for-the-badge)](https://www.python.org/)
